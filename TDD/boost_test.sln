@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost_test", "boost_test\boost_test.vcproj", "{15FF89CC-51C5-40D7-A3AF-1CAE433D092F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimeFactors", "PrimeFactors\PrimeFactors.vcproj", "{9A40700A-B0C8-48EC-ADB3-EE5316D8AF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FF89CC-51C5-40D7-A3AF-1CAE433D092F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15FF89CC-51C5-40D7-A3AF-1CAE433D092F}.Debug|Win32.Build.0 = Debug|Win32
+		{15FF89CC-51C5-40D7-A3AF-1CAE433D092F}.Release|Win32.ActiveCfg = Release|Win32
+		{15FF89CC-51C5-40D7-A3AF-1CAE433D092F}.Release|Win32.Build.0 = Release|Win32
+		{9A40700A-B0C8-48EC-ADB3-EE5316D8AF15}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A40700A-B0C8-48EC-ADB3-EE5316D8AF15}.Debug|Win32.Build.0 = Debug|Win32
+		{9A40700A-B0C8-48EC-ADB3-EE5316D8AF15}.Release|Win32.ActiveCfg = Release|Win32
+		{9A40700A-B0C8-48EC-ADB3-EE5316D8AF15}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
